@@ -4,7 +4,7 @@
   "members": [
     "LHL"
   ],
-  "repository_url": "填写 GitHub 仓库 URL",
+  "repository_url": "https://github.com/www08162026/day-03-sequences",
   "run_command": "python analyze.py --prepare --source-rows 150000; python analyze.py",
   "test_command": "python -m unittest discover -s tests -v",
   "report": "report.md",
