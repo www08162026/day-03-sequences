@@ -1,0 +1,14 @@
+{
+  "milestone": "day-03",
+  "team": "LHL",
+  "members": [
+    "LHL"
+  ],
+  "repository_url": "填写 GitHub 仓库 URL",
+  "run_command": "python analyze.py --prepare --source-rows 150000; python analyze.py",
+  "test_command": "python -m unittest discover -s tests -v",
+  "report": "report.md",
+  "presentation": "presentation.pptx",
+  "presentation_minutes": 3,
+  "student_confirmed_no_secrets": true
+}

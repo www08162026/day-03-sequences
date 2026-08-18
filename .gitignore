@@ -1,0 +1,8 @@
+data/raw/
+data/processed/
+metrics.json
+forecast.png
+largest_errors.csv
+__pycache__/
+*.pyc
+
